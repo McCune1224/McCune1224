@@ -31,7 +31,7 @@
 
 
 
-## Connect with me:
+## ❤️ Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/alexander-mccune-2b4150161/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -40,7 +40,7 @@
 
 </p>
 
-## Github  Stats
+## 📋 Github Stats
 <a href="https://github.com/McCune1224/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KusaAlexM">
 </a>

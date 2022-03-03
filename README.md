@@ -41,7 +41,7 @@
 </p>
 
 ## Github  Stats
-<a href="https://github.com/McCune/github-profile-views-counter">
+<a href="https://github.com/McCune1224/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KusaAlexM">
 </a>
 <a href="https://github.com/McCune1224?tab=followers"><img src="https://img.shields.io/github/followers/McCune1224?label=Followers&style=social" alt="GitHub Badge"></a>

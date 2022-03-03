@@ -2,7 +2,7 @@
 
 ## ❔ About Me
 
-- 🔭 I’m currently working on Finishing my Bachelors of Science for **Computer Science**.
+- 🔭 I’m currently working on Finishing my Bachelors of Science for **Computer Science** (graduating May 2022).
 
 - 🌱 I’m currently learning **Golang**
 
@@ -19,8 +19,10 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="45" height="45"/> </a> 
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" width="45" height="45"/> </a>
     <a href="https://go.dev/" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" width="45" height="45"/> </a>
+    <a href="https://vim.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png" alt="vim" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="45" height="45"/></a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+  
     
 </p>
 

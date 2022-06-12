@@ -2,13 +2,13 @@
 
 ## ❔ About Me
 
-- 🔭 I’m currently working on Finishing my Bachelors of Science for **Computer Science** (graduating May 2022).
+- 🔭 I’m A recent University Graduate with a Bachelors of Science in **Computer Science** (graduated May 2022).
 
 - 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to getting into **OpenSource Projects** as well as any **Entry Level Software Developer/Engineering**.
+- 👯 I’m looking to getting into **Software Engineering/Development** as well as getting started with **Open Source Contributions**.
 
-- 👨‍💻 Check out some more info on **[My Portfolio](http://www.alexmccune.com/)**
+- 👨‍💻 Check out some more info on my website **[My Portfolio](http://www.alexmccune.com/)**
 
 - 📫 How to reach me **alexmccune1224@gmail.com**
 
@@ -26,7 +26,6 @@
     
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 

@@ -40,12 +40,6 @@
 </p>
 
 ## 📋 Github Stats
-<a href="https://github.com/McCune1224/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KusaAlexM">
-</a>
-<a href="https://github.com/McCune1224?tab=followers"><img src="https://img.shields.io/github/followers/McCune1224?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
 <p align="center">
     <a href="https://github.com/McCune1224/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=McCune1224&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>

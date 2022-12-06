@@ -2,15 +2,13 @@
 
 ## ❔ About Me
 
-- 🔭 I’m A recent University Graduate with a Bachelors of Science in **Computer Science**.
+- I’m A recent University Graduate with a Bachelors of Science in **Computer Science**.
 
-- 🌱 I’m currently learning **Golang**
+- I’m looking to getting into **Software Engineering/Development** as well as getting started with **Open Source Contributions**.
 
-- 👯 I’m looking to getting into **Software Engineering/Development** as well as getting started with **Open Source Contributions**.
+- Check out some more info on my website **[My Portfolio](http://www.alexmccune.com/)**
 
-- 👨‍💻 Check out some more info on my website **[My Portfolio](http://www.alexmccune.com/)**
-
-- 📫 How to reach me **alexmccune1224@gmail.com**
+- How to reach me **alexmccune1224@gmail.com**
 
 
 ## 🚀 Favorite Languages and Tools:

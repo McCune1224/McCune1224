@@ -1,44 +1,42 @@
-<h1 align="center">Hello World! I'm <b>Alex McCune</b></h1>
+<h1 align="center">Hi! I'm <b>Alex McCune</b></h1>
+<hr>
+<p align="center">
+   <i>Lets build something together :)</i>
+   <br>
+<br>
+<a target="_blank" href="https://alexmccune.com/"><img src="https://img.shields.io/badge/-Website-FF4088?style=for-the-badge&logo=web&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/alexander-mccune"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:alexmccune1224@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://mccune1224.substack.com/"><img src="https://img.shields.io/badge/-Substack-E97627?style=for-the-badge&logo=Substack&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/KusaAlexM"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
+<br>
+</p>       
 
 ## ❔ About Me
 
 - I graduted in 2022 with a Bachelors of Science in **Computer Science**.
+  
+- Im passionate about back end web development! Love designing and deploying sustianable and scalable systems
 
 - I’m looking to getting into **Software Engineering/Development** as well as getting started with **Open Source Contributions**.
 
-- Currently learning Cloud Technologies and working right now on getting AWS certifications for **[Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)**
+- Check out some of my projects and more info on my **[My Portfolio](http://www.alexmccune.com/)**
 
-- Check out some more info on my website **[My Portfolio](http://www.alexmccune.com/)**
-
-## ❤️ Connect with me:
+## 🚀 My Tech Stack:
+### Languages
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/alexander-mccune/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/KusaAlexM"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-*Feel free to shoot me an email too at **alexmccune1224@gmail.com***
-
-
-## 🚀 Favorite Languages and Dev Tools:
-
-<p align="left"> 
-    <a href="https://go.dev/" target ="_blank"> <img src="https://img.icons8.com/color/100/000000/golang.png" alt="Golang" width="45" height="45"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/100/000000/python.png" alt="python" width="45" height="45"/></a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="python" width="45" height="45"/></a>
-</p>
-<p align="left"> 
-    <a href="https://vim.org" target="_blank"> <img src="https://camo.githubusercontent.com/40fab0380c2a8bdd3d38696dca777e2b810c269dc54f711a3046a08f4c34de17/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f332f33612f4e656f76696d2d6d61726b2e737667" alt="vim" width="45" height="45"/></a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" height="45" width="45"/></a>
-     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="linux" height="45" width="45"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,cs,python,typescript,postgres,elixir" />
+  </a>
 </p>
 
-<br/>
-
-
-
-
-
+### Tooling
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,neovim,aws,linux,nix " />
+  </a>
+</p>
 
 </p>
 

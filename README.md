@@ -15,15 +15,15 @@
 
 ## ❔ About Me
 
-- I graduted in 2022 with a Bachelors of Science in **Computer Science**.
+- I graduated in 2022 with a B.S. in **Computer Science**.
   
-- Im passionate about back end web development! Love designing and deploying sustianable and scalable systems
+- I'm passionate about back-end web development! Love designing and deploying sustainable and scalable systems
 
-- I’m looking to getting into **Software Engineering/Development** as well as getting started with **Open Source Contributions**.
+- Always passionate about learning new technologies. I am currently rebuilding my foundations in Networking. I'm studying for the **CompTIA Network+** and **AWS SysOps Administrator** certifications. 
 
 - Check out some of my projects and more info on my **[My Portfolio](http://www.alexmccune.com/)**
 
-## 🚀 My Tech Stack:
+## 🚀 Tech I Like Working With:
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">

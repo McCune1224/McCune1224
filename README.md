@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm <b>Alex McCune</b></h1>
-<hr>
 <p align="center">
-   <i>Lets build something together :)</i>
+   <i>I make bad puns and even worse software :)</i>
    <br>
 <br>
 <a target="_blank" href="https://alexmccune.com/"><img src="https://img.shields.io/badge/-Website-FF4088?style=for-the-badge&logo=web&logoColor=white"></img></a>	
@@ -16,10 +15,12 @@
 ## ❔ About Me
 
 - I graduated in 2022 with a B.S. in **Computer Science**.
-  
-- I'm passionate about back-end web development! Love designing and deploying sustainable and scalable systems
 
-- Always passionate about learning new technologies. I am currently rebuilding my foundations in Networking. I'm studying for the **CompTIA Network+** and **AWS SysOps Administrator** certifications. 
+- Currently working at University of Rochester's Medical Center as a system / application admin. Mainly work on integrating clinical device systems, with speciality in RTLS software.
+  
+- Mainly just a hobbyist programmer at this point, my main line of work is system admin / IT work, but I'm currently working on pivoting / specializing in Cybersecurity.
+
+- Getting some foundational certs early 2026, working on the **Cisco CCNA** as well as the **CompTIA Security**.  
 
 - Check out some of my projects and more info on my **[My Portfolio](http://www.alexmccune.com/)**
 
@@ -39,13 +40,3 @@
 </p>
 
 </p>
-
-<p align="center">
-    <a href="https://github.com/McCune1224/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=McCune1224&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-  <a href="https://github.com/McCune1224/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McCune1224&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-
-[![@mccune's Holopin board](https://holopin.me/mccune)](https://holopin.io/@mccune)

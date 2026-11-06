@@ -35,7 +35,7 @@
 ### Tooling
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,neovim,aws,linux,nix " />
+    <img src="https://skillicons.dev/icons?i=git,docker,neovim,aws,linux,nix" />
   </a>
 </p>
 
